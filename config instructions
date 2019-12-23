@@ -1,0 +1,1 @@
+all it requires is nodemon, config, and in a screen just run sudo PORT=80 npm run start
